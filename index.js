@@ -1,4 +1,4 @@
-
+heading.onload.innerHTML = "refresh me";
 var randomNumber1 = Math.floor((Math.random() * 6) + 1);
 var player1Image = document.querySelector(".img1");
 
